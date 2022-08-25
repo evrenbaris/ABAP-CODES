@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZMODEL_D</ROLLNAME>
+    <DDLANGUAGE>T</DDLANGUAGE>
+    <HEADLEN>12</HEADLEN>
+    <SCRLEN1>09</SCRLEN1>
+    <SCRLEN2>12</SCRLEN2>
+    <SCRLEN3>12</SCRLEN3>
+    <DDTEXT>Araba Modeli</DDTEXT>
+    <REPTEXT>Araba Modeli</REPTEXT>
+    <SCRTEXT_S>Araba MDL</SCRTEXT_S>
+    <SCRTEXT_M>Araba Modeli</SCRTEXT_M>
+    <SCRTEXT_L>Araba Modeli</SCRTEXT_L>
+    <DTELMASTER>T</DTELMASTER>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000015</LENG>
+    <OUTPUTLEN>000015</OUTPUTLEN>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

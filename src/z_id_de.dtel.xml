@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z_ID_DE</ROLLNAME>
+    <DDLANGUAGE>T</DDLANGUAGE>
+    <DOMNAME>Z_ID_DO</DOMNAME>
+    <HEADLEN>18</HEADLEN>
+    <SCRLEN1>04</SCRLEN1>
+    <SCRLEN2>18</SCRLEN2>
+    <SCRLEN3>18</SCRLEN3>
+    <DDTEXT>Ziyaretçi ID data element</DDTEXT>
+    <REPTEXT>ZIYARETCI NUMARASI</REPTEXT>
+    <SCRTEXT_S>Z.NO</SCRTEXT_S>
+    <SCRTEXT_M>ZIYARETCI NUMARASI</SCRTEXT_M>
+    <SCRTEXT_L>ZIYARETCI NUMARASI</SCRTEXT_L>
+    <DTELMASTER>T</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

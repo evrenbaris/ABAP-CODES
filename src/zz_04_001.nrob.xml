@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NROB" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <ATTRIBUTES>
+    <OBJECT>ZZ_04_001</OBJECT>
+    <DOMLEN>NUM10</DOMLEN>
+    <PERCENTAGE>10.0</PERCENTAGE>
+    <BUFFER>X</BUFFER>
+    <NOIVBUFFER>00000020</NOIVBUFFER>
+    <CHANGED_AT>20220815131447.742741</CHANGED_AT>
+    <CHANGED_BY>XEGUNES</CHANGED_BY>
+    <UNAME>XEGUNES</UNAME>
+    <UDATE>2022-08-15</UDATE>
+    <UTIME>16:14:47</UTIME>
+   </ATTRIBUTES>
+   <TEXT>
+    <LANGU>T</LANGU>
+    <OBJECT>ZZ_04_001</OBJECT>
+    <TXT>NUMARA ARALIĞI OLUSTUR</TXT>
+    <TXTSHORT>NUMERATOR</TXTSHORT>
+    <ENAME>XEGUNES</ENAME>
+    <EDATE>2022-08-15</EDATE>
+    <ETIME>16:09:17</ETIME>
+   </TEXT>
+  </asx:values>
+ </asx:abap>
+</abapGit>

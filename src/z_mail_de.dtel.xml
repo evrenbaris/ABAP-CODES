@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z_MAIL_DE</ROLLNAME>
+    <DDLANGUAGE>T</DDLANGUAGE>
+    <DOMNAME>Z_MAIL_DO</DOMNAME>
+    <HEADLEN>15</HEADLEN>
+    <SCRLEN1>06</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>15</SCRLEN3>
+    <DDTEXT>Ziyaretçi Maili İçin Data Element</DDTEXT>
+    <REPTEXT>Ziyaretçi Maili</REPTEXT>
+    <SCRTEXT_S>Z.MAIL</SCRTEXT_S>
+    <SCRTEXT_M>Ziyaretçi Maili</SCRTEXT_M>
+    <SCRTEXT_L>Ziyaretçi Maili</SCRTEXT_L>
+    <DTELMASTER>T</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

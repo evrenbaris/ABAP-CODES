@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>Z_CL_EGITIM_CLASS2</CLSNAME>
+    <LANGU>T</LANGU>
+    <DESCRIPT>Class calısması</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>Z_CL_EGITIM_CLASS2</CLSNAME>
+     <CMPNAME>CV_NUMBER</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>Z_CL_EGITIM_CLASS2</CLSNAME>
+     <CMPNAME>NUMBER_TYP</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>Z_CL_EGITIM_CLASS2</CLSNAME>
+     <CMPNAME>SUM_NUMBERS</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>sum numbers</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>Z_CL_EGITIM_CLASS2</CLSNAME>
+     <CMPNAME>SUM_NUMBERS_PRIVATE</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>sum numbers</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
